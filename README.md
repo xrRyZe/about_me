@@ -1,19 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
-<br>
 - Pursuing a degree in AI and Machine Learning while completing my apprenticeship in Application Development.<br>
 - Exciting projects that combine my academic knowledge with practical skills.<br>
 <br>
 👯 I’m looking to collaborate on<br>
-<br>
 - Technical and IT projects with fellow enthusiasts.<br>
-<br>
 🌱 I’m currently learning<br>
-<br>
 - The latest trends and techniques in AI and Machine Learning as well as software engineering<br>
-<br>
 ⚡ Fun fact<br>
-<br>
 - I love coding and building projects in my free time, often with friends!<br>
 
 
